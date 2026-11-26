@@ -21,4 +21,14 @@ cd technical-blog-code/<project-folder>
 
 ## License
 
-MIT. Use the code freely in your own projects.
+© 2026 **Mian Basam Ahmad**. Released under the [Mian Basam Ahmad License v1.0](LICENSE).
+
+| ✅ You may | ❌ You may not |
+|---|---|
+| Use the code in personal, learning and commercial projects | Republish this repo or the tutorials as your own |
+| Modify it and include it in your own apps | Resell it as a course, template pack or tutorial set |
+| Share projects built with it, with credit | Remove the copyright notice or license |
+
+**Credit line:** *Based on code by Mian Basam Ahmad (https://mian-basam.github.io)*
+
+The written tutorials on the blog are not covered by this license and may not be copied without permission.

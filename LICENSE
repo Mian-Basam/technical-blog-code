@@ -1,21 +1,92 @@
-MIT License
+================================================================================
+                          MIAN BASAM AHMAD LICENSE
+                                 Version 1.0
+================================================================================
 
-Copyright (c) 2026 Mian Basam Ahmad
+Copyright (c) 2026 Mian Basam Ahmad. All rights not expressly granted herein
+are reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Author:   Mian Basam Ahmad
+Website:  https://mian-basam.github.io
+GitHub:   https://github.com/Mian-Basam
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+--------------------------------------------------------------------------------
+1. DEFINITIONS
+--------------------------------------------------------------------------------
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  "Software"   means the source code, configuration files and accompanying
+               documentation in this repository.
+
+  "Content"    means the written tutorials, articles and explanatory text
+               published at https://mian-basam.github.io, including the
+               README files in this repository.
+
+  "You"        means any individual or organization exercising the rights
+               granted by this License.
+
+--------------------------------------------------------------------------------
+2. PERMISSIONS
+--------------------------------------------------------------------------------
+
+  Subject to the conditions below, You are granted a free, worldwide,
+  non-exclusive license to:
+
+    (a) use the Software for personal, educational and commercial purposes;
+    (b) copy and modify the Software;
+    (c) include the Software, or parts of it, in Your own projects and
+        distribute those projects.
+
+--------------------------------------------------------------------------------
+3. CONDITIONS
+--------------------------------------------------------------------------------
+
+    (a) ATTRIBUTION. Every copy or substantial portion of the Software must
+        retain the copyright notice above and a copy of this License.
+        Projects that publicly distribute the Software must credit:
+
+            "Based on code by Mian Basam Ahmad (https://mian-basam.github.io)"
+
+    (b) NO REPUBLISHING. You may not republish, resell or redistribute the
+        Software as a standalone collection, tutorial set, course or template
+        pack, nor present it as Your own original work.
+
+    (c) CONTENT IS NOT LICENSED. The Content is NOT covered by the permissions
+        in Section 2. It may not be copied, republished or adapted without
+        prior written permission from the author. Short quotations with a link
+        to the original article are permitted.
+
+    (d) NO ENDORSEMENT. You may not use the author's name to endorse or
+        promote Your products without prior written permission.
+
+--------------------------------------------------------------------------------
+4. DISCLAIMER OF WARRANTY
+--------------------------------------------------------------------------------
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+--------------------------------------------------------------------------------
+5. LIMITATION OF LIABILITY
+--------------------------------------------------------------------------------
+
+  IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+--------------------------------------------------------------------------------
+6. TERMINATION
+--------------------------------------------------------------------------------
+
+  Any breach of the conditions in Section 3 automatically terminates the
+  rights granted to You under this License.
+
+--------------------------------------------------------------------------------
+7. PERMISSIONS BEYOND THIS LICENSE
+--------------------------------------------------------------------------------
+
+  For uses not covered here, including republishing tutorials or using the
+  Software in a paid course, contact the author via
+  https://www.linkedin.com/in/mian-basam-ahmad-68b997147/
+
+================================================================================
