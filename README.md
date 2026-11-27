@@ -1,4 +1,19 @@
+<div align="center">
+
 # Technical Blog: Companion Code
+
+### Complete, runnable projects for the tutorials on mian-basam.github.io
+
+![Python](https://img.shields.io/badge/Python-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-Agents-FF5A50?style=for-the-badge)
+
+</div>
+
+---
+
+## Overview
 
 Complete, runnable projects for the articles on **[mian-basam.github.io](https://mian-basam.github.io)**.
 
@@ -19,16 +34,14 @@ git clone https://github.com/Mian-Basam/technical-blog-code.git
 cd technical-blog-code/<project-folder>
 ```
 
-## License
+---
 
-© 2026 **Mian Basam Ahmad**. Released under the [Mian Basam Ahmad License v1.0](LICENSE).
+<div align="center">
 
-| ✅ You may | ❌ You may not |
-|---|---|
-| Use the code in personal, learning and commercial projects | Republish this repo or the tutorials as your own |
-| Modify it and include it in your own apps | Resell it as a course, template pack or tutorial set |
-| Share projects built with it, with credit | Remove the copyright notice or license |
+**Built by [Mian Basam Ahmad](https://github.com/Mian-Basam)** · Software Engineer & Tech Lead
 
-**Credit line:** *Based on code by Mian Basam Ahmad (https://mian-basam.github.io)*
+[![Blog](https://img.shields.io/badge/Blog-mian--basam.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://mian-basam.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-basam-ahmad-68b997147/) [![GitHub](https://img.shields.io/badge/GitHub-Mian--Basam-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mian-Basam)
 
-The written tutorials on the blog are not covered by this license and may not be copied without permission.
+<sub>If this project helped you, consider giving it a ⭐</sub>
+
+</div>
